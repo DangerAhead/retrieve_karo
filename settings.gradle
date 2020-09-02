@@ -1,0 +1,2 @@
+rootProject.name='retrieve karo'
+include ':app'

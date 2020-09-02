@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "286543218456",
+    "firebase_url": "https://insert-karo.firebaseio.com",
+    "project_id": "insert-karo",
+    "storage_bucket": "insert-karo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286543218456:android:b8a2a868ea683211ac406d",
+        "android_client_info": {
+          "package_name": "com.hfad.insertkaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286543218456-c199tgb2gqbbm637s0eelu5bcnifr221.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBMu5XxSMRKR0zyEYso0eL4AR3zO8A-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286543218456-c199tgb2gqbbm637s0eelu5bcnifr221.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286543218456:android:48f498437cc45da4ac406d",
+        "android_client_info": {
+          "package_name": "com.hfad.retrievekaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286543218456-c199tgb2gqbbm637s0eelu5bcnifr221.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBMu5XxSMRKR0zyEYso0eL4AR3zO8A-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286543218456-c199tgb2gqbbm637s0eelu5bcnifr221.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
